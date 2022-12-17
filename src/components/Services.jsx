@@ -5,7 +5,7 @@ import dj1 from '../assets/dj1.jpg'
 
 const Services = () => {
   return (
-    <div className='w-full mt-24'>
+    <div name='services' className='w-full mt-24'>
         <div className='w-full h-[700px] bg-gray-900/90 absolute '>
             <img className='w-full h-full object-cover mix-blend-overlay' src={dj1} alt="" />
         </div>
