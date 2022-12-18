@@ -1,9 +1,9 @@
 {
   "name": "jfigarro",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://https://venteri.github.io/",
-  "dependencies": {
+  "private": false,
+  "homepage": "https://venteri.github.io/",
+  "dependencies": { 
     "@heroicons/react": "^2.0.13",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
