@@ -1,29 +1,18 @@
 import React from 'react'
 
+import JF2 from '../assets/JF2.png'
+
 const about = () => {
   return (
     <div name='about' className='w-full my-32'>
         <div className='max-w-[1240px] mx-auto'>
             <div className='text-center'>
                 <h2 className='text-5xl font-bold'>
-                    Trusted by developers across the world
+                    Techno and Eletronic Hits for your next Event
                 </h2>
-                <p className='text-3xl py-6 text-gray-500'>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,</p>
+                <p className='text-3xl py-6 text-gray-500'>Listen to Johns newest Hits on SoundCloud.</p>
             </div>
-            <div className='grid md:grid-cols-3 gap-1 px-2 text-center'>
-                <div className='border py-8 rounded-xl shadow-xl ' >
-                    <p className='text-6xl font-bold text-indigo-600'>100%</p>
-                    <p className='text-gray-400 mt-2'>Completion</p>
-                </div>
-                <div className='border py-8 rounded-xl shadow-xl ' >
-                    <p className='text-6xl font-bold text-indigo-600'>24/7</p>
-                    <p className='text-gray-400 mt-2'>Delivery</p>
-                </div>
-                <div className='border py-8 rounded-xl shadow-xl ' >
-                    <p className='text-6xl font-bold text-indigo-600'>100k</p>
-                    <p className='text-gray-400 mt-2'>Transactions</p>
-                </div>
-            </div>
+            <a href='https://soundcloud.com/john-figarro' target='_blank'><img src={JF2} alt="" /></a>
         </div>
     </div>
   )
