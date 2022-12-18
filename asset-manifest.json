@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//venteri.github.io/static/css/main.6bdb2689.css",
-    "main.js": "//venteri.github.io/static/js/main.b351f61a.js",
-    "static/media/dj1.jpg": "//venteri.github.io/static/media/dj1.57e286b1e271946ac022.jpg",
-    "static/media/JF2.png": "//venteri.github.io/static/media/JF2.e21435595a359acb5a8a.png",
-    "static/media/JF.png": "//venteri.github.io/static/media/JF.8bfd9b3ab204a1c01885.png",
-    "index.html": "//venteri.github.io/index.html",
-    "main.6bdb2689.css.map": "//venteri.github.io/static/css/main.6bdb2689.css.map",
-    "main.b351f61a.js.map": "//venteri.github.io/static/js/main.b351f61a.js.map"
+    "main.css": "//venteri.github.io/jfigarro/static/css/main.6bdb2689.css",
+    "main.js": "//venteri.github.io/jfigarro/static/js/main.75483229.js",
+    "static/media/dj1.jpg": "//venteri.github.io/jfigarro/static/media/dj1.57e286b1e271946ac022.jpg",
+    "static/media/JF2.png": "//venteri.github.io/jfigarro/static/media/JF2.e21435595a359acb5a8a.png",
+    "static/media/JF.png": "//venteri.github.io/jfigarro/static/media/JF.8bfd9b3ab204a1c01885.png",
+    "index.html": "//venteri.github.io/jfigarro/index.html",
+    "main.6bdb2689.css.map": "//venteri.github.io/jfigarro/static/css/main.6bdb2689.css.map",
+    "main.75483229.js.map": "//venteri.github.io/jfigarro/static/js/main.75483229.js.map"
   },
   "entrypoints": [
     "static/css/main.6bdb2689.css",
-    "static/js/main.b351f61a.js"
+    "static/js/main.75483229.js"
   ]
 }
